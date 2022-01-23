@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'meena1234'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6100C43169ED44FDA0CD4709CC7B6D6C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0DF86FDB55564E768349989D0B334C0C }}
           package: .
